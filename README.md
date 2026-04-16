@@ -14,7 +14,6 @@
 - 🌱 Always learning and exploring new technologies
 - 💡 I enjoy solving problems through clean and efficient code
 - 📫 Reach me at: **dineshtharund248@gmail.com**
-generate a proper complete readme,md file
 ---
 
 ## 🛠️ Languages
