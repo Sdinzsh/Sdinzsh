@@ -63,10 +63,6 @@ generate a proper complete readme,md file
       <sub><b>VS Code</b></sub>
     </td>
     <td align="center" width="90">
-      <img height="50" width="50" src="https://img.icons8.com/color/48/pycharm.png" alt="PyCharm"/><br/>
-      <sub><b>PyCharm</b></sub>
-    </td>
-    <td align="center" width="90">
       <img height="50" width="50" src="https://vscodium.com/img/codium_cnl.svg" alt="VSCodium"/><br/>
       <sub><b>VSCodium</b></sub>
     </td>
