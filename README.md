@@ -106,35 +106,6 @@
 
 ---
 
-## 🎨 Design Tools
-
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img width="50" height="50" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="Photoshop"/><br/>
-      <sub><b>Photoshop</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img width="50" height="50" src="https://img.icons8.com/color/100/adobe-illustrator--v1.png" alt="Illustrator"/><br/>
-      <sub><b>Illustrator</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img width="50" height="50" src="https://img.icons8.com/color/48/adobe-indesign--v1.png" alt="InDesign"/><br/>
-      <sub><b>InDesign</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img width="50" height="50" src="https://otwarty.pl/420-large_default/adobe-dimension-cc.jpg" alt="Dimensions"/><br/>
-      <sub><b>Dimensions</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img width="50" height="50" src="https://img.icons8.com/fluency/48/gimp.png" alt="GIMP"/><br/>
-      <sub><b>GIMP</b></sub>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
