@@ -16,93 +16,35 @@
 - 📫 Reach me at: **dineshtharund248@gmail.com**
 ---
 
-## 🛠️ Languages
+## 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img width="50" height="50" src="https://img.icons8.com/color/50/c-programming.png" alt="C"/><br/>
-      <sub><b>C</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img height="50" width="50" src="https://img.icons8.com/color/48/python.png" alt="Python"/><br/>
-      <sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img height="50" width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/><br/>
-      <sub><b>Java</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img height="50" width="50" src="https://img.icons8.com/color/48/html-5.png" alt="HTML5"/><br/>
-      <sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img height="50" width="50" src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/><br/>
-      <sub><b>CSS3</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img width="50" height="50" src="https://img.icons8.com/plasticine/100/bash.png" alt="Bash"/><br/>
-      <sub><b>Bash</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img width="50" height="50" src="https://img.icons8.com/color/50/sql.png" alt="SQL"/><br/>
-      <sub><b>SQL</b></sub>
-    </td>
-  </tr>
-</table>
+### Programming Languages
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 
-## ⚙️ IDEs & Tools
+</p>
 
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img height="50" width="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/><br/>
-      <sub><b>VS Code</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img height="50" width="50" src="https://vscodium.com/img/codium_cnl.svg" alt="VSCodium"/><br/>
-      <sub><b>VSCodium</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text-logo-color-tal-revivo.png" alt="Vim"/><br/>
-      <sub><b>Vim</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img width="50" height="50" src="https://user-images.githubusercontent.com/28633984/66519056-2e840c80-eaef-11e9-8670-c767213c26ba.png" alt="Neovim"/><br/>
-      <sub><b>Neovim</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Zed_Editor_Logo.png/1280px-Zed_Editor_Logo.png" alt="Zed"/><br/>
-      <sub><b>Zed</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img height="50" width="50" src="https://img.icons8.com/color/50/git.png" alt="Git"/><br/>
-      <sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img width="50" height="50" src="https://img.icons8.com/color/50/gitlab.png" alt="GitLab"/><br/>
-      <sub><b>GitLab</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img width="50" height="50" src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/><br/>
-      <sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img height="50" width="50" src="https://pypi.org/static/images/logo-small.8998e9d1.svg" alt="PyPI"/><br/>
-      <sub><b>PyPI</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img width="50" height="50" src="https://miro.medium.com/1*dAFuOPENjqnnPl5FnOf07g.png" alt="uv"/><br/>
-      <sub><b>uv</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img width="50" height="50" src="https://opencode.ai/favicon.ico" alt="OpenCode"/><br/>
-      <sub><b>OpenCode</b></sub>
-    </td>
-  </tr>
-</table>
+### IDEs & Development Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/VSCodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white" alt="VSCodium" />
+  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
+  <img src="https://img.shields.io/badge/Zed-0870E0?style=for-the-badge&logo=zedindustries&logoColor=white" alt="Zed" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI" />
+  <img src="https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=uv&logoColor=white" alt="uv" />
+  <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white" alt="OpenCode" />
+</p>
 
 ---
 
